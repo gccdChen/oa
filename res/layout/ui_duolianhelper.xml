@@ -15,6 +15,7 @@
         <ImageView
             style="@style/top_iv"
             android:src="@drawable/top_bartype"
+            android:onClick="showMenu"
             />
 
         <View 

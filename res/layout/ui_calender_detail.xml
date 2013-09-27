@@ -13,6 +13,7 @@
         <Button
             android:layout_width="40dp"
             android:layout_height="40dp"
+            android:onClick="showMenu"
             android:background="@drawable/menu_icon" />
 
         <TextView

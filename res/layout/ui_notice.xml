@@ -15,7 +15,7 @@
             android:layout_width="@dimen/header_bar_height"
             android:layout_height="@dimen/header_bar_height"
             android:background="@drawable/back_nav_btn"
-            android:onClick="showMenu" />
+            android:onClick="doBack" />
 
         <TextView
             android:layout_width="match_parent"

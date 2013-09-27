@@ -12,6 +12,7 @@
 
         <ImageView
             style="@style/top_iv"
+            android:onClick="doBack"
             android:src="@drawable/top_arr" />
  		<Button 
             android:id="@+id/btn_forbidden"
